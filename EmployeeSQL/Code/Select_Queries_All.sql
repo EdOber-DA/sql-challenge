@@ -55,3 +55,7 @@
 --	 	 	d.dept_name = 'Development')
 -- ;
 
+-- QUERY #08
+-- select last_name, count(last_name) as family_count from employees
+-- group by last_name
+-- order by family_count desc
