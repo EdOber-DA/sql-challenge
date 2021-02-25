@@ -1,7 +1,6 @@
--- Select count(*) from departments;
--- Select count(*) from dept_emp; 
--- Select count(*) from dept_manager; 
--- Select count(*) from employees; 
--- Select count(*) from salaries; 
--- Select count(*) from titles; 
-
+-- Select count(*) from department;
+-- Select count(*) from department_employee; 
+-- Select count(*) from department_manager; 
+-- Select count(*) from employee; 
+-- Select count(*) from salary; 
+-- Select count(*) from title; 
