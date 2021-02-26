@@ -29,7 +29,8 @@ This is the SQL Homework submission for: Employee Database: A Mystery in Two Par
   
   * [Entity Relationship Diagram](EmployeeSQL/Documentation/ERD_Diagram_from_QuickDBD_for_EmployeeSQL-SQL_Challenge.docx) - word doc
 
-  * [QuickDBD Schema](EmployeeSQL/Documentation/Schema_Exported_from_QuickDBD-EmployeeSQL-SQL Challenge.sql) - Sample of exported schema based on ERD
+
+  * [QuickDBD Schema](EmployeeSQL/Documentation/Schema_Exported_from_QuickDBD-EmployeeSQL-SQL_Challenge.sql) - Sample of exported schema based on ERD
 
 	
 * [Data](EmployeeSQL/Data) - 6 CSVs used for loading the tables. 
