@@ -8,7 +8,7 @@ This is the SQL Homework submission for: Employee Database: A Mystery in Two Par
 
 * Included in this is a main folder EmployeeSQL with 3 subfolder: 
    
-  * Code: contains SQL for creating the tables and the 8 requested queries.  Also contains Jupyter notebook for the Bonus analysis. 
+  * Code: contains SQL for creating the tables and the 8 requested queries.  Also contains Jupyter notebook for the Bonus analysis. Added an "Extra" item where the 31,579 duplicate employee entries in the department_employee table were investigated.
 
   * Documenation: Word Document with the ERD created in QuickDBD, schema exported from QuickDBD, Word Document with screen shots of Query output, and Screen Shot Image of the ERD
 
@@ -25,7 +25,7 @@ This is the SQL Homework submission for: Employee Database: A Mystery in Two Par
 
   * [Bonus Jupyter Notebook](EmployeeSQL/Code/EmployeeSQL_Bonus.ipynb) - sets up SQLAlchemy engine connection, reads from the Postgress database into Pandas and produces graphs and reports. 
 
-  * [Extra Work - Duplicate Department_Employee Query](Duplicate_Staff_Entries_Analysis.sql) - looked at the fact that there are 31,579 duplicate employee numbers in the department_Employee table.  Appears to be that there are dups because when people are promoted / move departments the old entries are not removed.  Best practice would be to add a start-date, and also to record the end date when they leave or move onto a new department.  This would also apply to the titles and salary tables, but appears they only have one entry. 
+  * [Extra Work - Duplicate Department_Employee Query](Employee/Code/Duplicate_Staff_Entries_Analysis.sql) - looked at the fact that there are 31,579 duplicate employee numbers in the department_Employee table.  Appears to be that there are dups because when people are promoted / move departments the old entries are not removed.  Best practice would be to add a start-date, and also to record the end date when they leave or move onto a new department.  This would also apply to the titles and salary tables, but appears they only have one entry. 
 
 
 * [Documentation:](EmployeeSQL/Documentation)
