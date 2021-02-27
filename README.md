@@ -28,21 +28,19 @@ This is the SQL Homework submission for: Employee Database: A Mystery in Two Par
 
 * [Documentation:](EmployeeSQL/Documentation)
   
-  * [Entity Relationship Diagram](EmployeeSQL/Documentation/ERD_Diagram_from_QuickDBD_for_EmployeeSQL-SQL_Challenge.docx) - word doc
+  * [Entity Relationship Diagram Document](EmployeeSQL/Documentation/ERD_Diagram_from_QuickDBD_for_EmployeeSQL-SQL_Challenge.docx) - word doc
 
   * [Query Output](EmployeeSQL/Documentation/Query_Output_for_EmployeeSQL-SQL_Challenge.docx) - Screen Shots of the queries and output in Postgress
 
-  * [ERD Diagram](EmployeeSQL/Documentation/EmployeeSQL-ERD_Image.png) - ERD (also shown below)
+  * [ERD Diagram image](EmployeeSQL/Documentation/EmployeeSQL-ERD_Image.png) - ERD (also shown below)
 
-  * [QuickDBD Schema](EmployeeSQL/Documentation/Schema_Exported_from_QuickDBD-EmployeeSQL-SQL_Challenge.sql) - Sample of exported schema based on ERD
+  * [QuickDBD Schema](EmployeeSQL/Documentation/Schema_Exported_from_QuickDBD-EmployeeSQL-SQL_Challenge.sql) - Sample of exported schema based on ERD, has some issues...just an example
   
 	
 * [Data](EmployeeSQL/Data) - 6 CSVs used for loading the tables. 
 
   
 ## Diagram
-
-### ERD  
 
 * ERD Diagram for the Employee Database
 
