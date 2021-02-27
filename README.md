@@ -25,33 +25,23 @@ This is the SQL Homework submission for: Employee Database: A Mystery in Two Par
 
   * [Bonus Jupyter Notebook](EmployeeSQL/Code/EmployeeSQL_Bonus.ipynb) - sets up SQLAlchemy engine connection, reads from the Postgress database into Pandas and produces graphs and reports.  
 
+
 * [Documentation:](EmployeeSQL/Documentation)
   
   * [Entity Relationship Diagram](EmployeeSQL/Documentation/ERD_Diagram_from_QuickDBD_for_EmployeeSQL-SQL_Challenge.docx) - word doc
 
+  * [Query Output](EmployeeSQL/Documentation/Query_Output_for_EmployeeSQL-SQL_Challenge.docx) - Screen Shots of the queries and output in Postgress
 
   * [QuickDBD Schema](EmployeeSQL/Documentation/Schema_Exported_from_QuickDBD-EmployeeSQL-SQL_Challenge.sql) - Sample of exported schema based on ERD
-
+  
 	
 * [Data](EmployeeSQL/Data) - 6 CSVs used for loading the tables. 
 
   
-## Screen Shots of Output
+## Diagram
 
 ### ERD  
 
-* ERD this is the desciption....
+* ERD Diagram for the Employee Database
 
-![DocumentationWeatherPy - City Latitude vs Temp](WeatherPy/Output/City_Lat_vs_Temp_Graph.png)
-
-* WeatherPy/Output/City_Lat_vs_Humidity Graph.png.
-
-![WeatherPy - City Latitude vs Humidity %](WeatherPy/Output/City_Lat_vs_Humid_Graph.png)
-
-* WeatherPy/Output/City_Lat_vs_Cloud_Graph.png.
-
-![WeatherPy - City Latitude vs Cloud](WeatherPy/Output/City_Lat_vs_Cloud_Graph.png)
-
-* WeatherPy/Output/City_Lat_vs_Wind_Graph.png.
-
-![WeatherPy - City Latitude vs Wind (mph)](WeatherPy/Output/City_Lat_vs_Wind_Graph.png)
+![ERD Diagram](EmployeeSQL/Documentation/EmployeeSQL-ERD_Image.png)
