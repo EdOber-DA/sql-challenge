@@ -10,7 +10,7 @@ This is the SQL Homework submission for: Employee Database: A Mystery in Two Par
    
   * Code: contains SQL for creating the tables and the 8 requested queries.  Also contains Jupyter notebook for the Bonus analysis. 
 
-  * Documenation: Word Document with the ERD created in QuickDBD, schema exported from QuickDBD, and Screen Shot Image of the ERD
+  * Documenation: Word Document with the ERD created in QuickDBD, schema exported from QuickDBD, Word Document with screen shots of Query output, and Screen Shot Image of the ERD
 
   * Data: the 6 csv files loaded into the 6 database tables  
   
@@ -31,6 +31,8 @@ This is the SQL Homework submission for: Employee Database: A Mystery in Two Par
   * [Entity Relationship Diagram](EmployeeSQL/Documentation/ERD_Diagram_from_QuickDBD_for_EmployeeSQL-SQL_Challenge.docx) - word doc
 
   * [Query Output](EmployeeSQL/Documentation/Query_Output_for_EmployeeSQL-SQL_Challenge.docx) - Screen Shots of the queries and output in Postgress
+
+  * [ERD Diagram](EmployeeSQL/Documentation/EmployeeSQL-ERD_Image.png) - ERD (also shown below)
 
   * [QuickDBD Schema](EmployeeSQL/Documentation/Schema_Exported_from_QuickDBD-EmployeeSQL-SQL_Challenge.sql) - Sample of exported schema based on ERD
   
